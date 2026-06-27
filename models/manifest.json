@@ -1,0 +1,46 @@
+[
+  {
+    "id": "backdrop_broadcast",
+    "name": "Broadcast",
+    "category": "QuickZip",
+    "file": "https://raw.githubusercontent.com/Abacus-Arturo/booth-planner-library/main/models/backdrops/Quickzip/Broadcast.glb",
+    "w": 3,
+    "d": 0.2,
+    "h": 2.4,
+    "color": "#3a6ea5",
+    "sockets": []
+  },
+  {
+    "id": "backdrop_showtime",
+    "name": "Showtime",
+    "category": "QuickZip",
+    "file": "https://raw.githubusercontent.com/Abacus-Arturo/booth-planner-library/main/models/backdrops/Quickzip/Showtime.glb",
+    "w": 3,
+    "d": 0.2,
+    "h": 2.4,
+    "color": "#3a6ea5",
+    "sockets": ["socket_lamp"]
+  },
+  {
+    "id": "backdrop_seg_3ft",
+    "name": "SEG 3ft",
+    "category": "SEG Lightbox",
+    "file": "https://raw.githubusercontent.com/Abacus-Arturo/booth-planner-library/main/models/backdrops/SEG/seg_3ft.glb",
+    "w": 0.9,
+    "d": 0.2,
+    "h": 2.4,
+    "color": "#e8e8e8",
+    "sockets": ["socket_shelf"]
+  },
+  {
+    "id": "prop_shelf",
+    "name": "Shelf",
+    "category": "Props",
+    "file": "https://raw.githubusercontent.com/Abacus-Arturo/booth-planner-library/main/models/props/Shelf.glb",
+    "w": 0.6,
+    "d": 0.3,
+    "h": 0.05,
+    "color": "#d8c9a3",
+    "sockets": []
+  }
+]
