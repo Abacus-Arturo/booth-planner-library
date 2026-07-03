@@ -25,7 +25,7 @@
     "category": "SEG Lightbox",
     "file": "https://raw.githubusercontent.com/Abacus-Arturo/booth-planner-library/main/models/backdrops/SEG/seg_3ft.glb",
     "w": 0.9, "d": 0.2, "h": 2.4,
-    "color": "#e8e8e8",
+    "color": "#d17b2a",
     "sockets": [
       { "name": "socket_shelf", "accessoryFile": "https://raw.githubusercontent.com/Abacus-Arturo/booth-planner-library/main/models/props/Shelf.glb" }
     ]
