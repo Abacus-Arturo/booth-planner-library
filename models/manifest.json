@@ -50,9 +50,9 @@
     "name": "Lamp",
     "category": "Props",
     "file": "https://raw.githubusercontent.com/Abacus-Arturo/booth-planner-library/main/models/props/Lamp.glb",
-    "w": 0.6,
-    "d": 0.3,
-    "h": 0.05,
+    "w": 0.1,
+    "d": 0.1,
+    "h": 0.3,
     "color": "#d8c9a3",
     "sockets": []
   }
