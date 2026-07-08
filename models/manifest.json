@@ -19,6 +19,17 @@
       { "name": "socket_lamp", "accessoryFile": "https://raw.githubusercontent.com/Abacus-Arturo/booth-planner-library/main/models/props/Lamp.glb" }
     ]
   },
+   {
+    "id": "backdrop_8ftStraight",
+    "name": "8ft QZ Straight",
+    "category": "QuickZip",
+    "file": "https://raw.githubusercontent.com/Abacus-Arturo/booth-planner-library/main/models/backdrops/Quickzip/8ftStraight.glb",
+    "w": 0.6, "d": 0.3, "h": 0.05,
+    "color": "#d8c9a3",
+    "sockets": [
+       { "name": "socket_lamp", "accessoryFile": "https://raw.githubusercontent.com/Abacus-Arturo/booth-planner-library/main/models/props/Lamp.glb" }
+    ]
+  },
   {
     "id": "backdrop_seg_3ft",
     "name": "SEG 3ft",
@@ -46,6 +57,15 @@
     "file": "https://raw.githubusercontent.com/Abacus-Arturo/booth-planner-library/main/models/props/Lamp.glb",
     "w": 0.1, "d": 0.1, "h": 0.3,
     "color": "#ffffff",
+    "sockets": []
+  },
+  {
+    "id": "prop_Door",
+    "name": "Door",
+    "category": "Props",
+    "file": "https://raw.githubusercontent.com/Abacus-Arturo/booth-planner-library/main/models/props/Door.glb",
+    "w": 0.6, "d": 0.3, "h": 0.05,
+    "color": "#d8c9a3",
     "sockets": []
   }
 ]
