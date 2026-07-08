@@ -62,7 +62,7 @@
   {
     "id": "prop_Door",
     "name": "Door",
-    "category": "Props",
+    "category": "QuickZip",
     "file": "https://raw.githubusercontent.com/Abacus-Arturo/booth-planner-library/main/models/props/Door.glb",
     "w": 0.6, "d": 0.3, "h": 0.05,
     "color": "#d8c9a3",
