@@ -60,11 +60,11 @@
     "sockets": []
   },
   {
-    "id": "prop_Door",
+    "id": "prop_door",
     "name": "Door",
     "category": "Props",
     "file": "https://raw.githubusercontent.com/Abacus-Arturo/booth-planner-library/main/models/props/Door.glb",
-    "w": 0.6, "d": 0.3, "h": 0.05,
+    "w": 0.9, "d": 0.1, "h": 2.1,
     "color": "#d8c9a3",
     "sockets": []
   }
