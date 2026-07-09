@@ -76,7 +76,7 @@
     "w": 0.9, "d": 0.1, "h": 2.1,
     "color": "#d8c9a3",
     "sockets": []
-  }
+  },
   {
     "id": "prop_table",
     "name": "Table",
