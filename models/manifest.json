@@ -85,5 +85,14 @@
     "w": 0.9, "d": 0.1, "h": 2.1,
     "color": "#d8c9a3",
     "sockets": []
+  },
+  {
+    "id": "prop_qz_showcase_books",
+    "name": "Showcase Books",
+    "category": "Props",
+    "file": "https://raw.githubusercontent.com/Abacus-Arturo/booth-planner-library/main/models/props/QZ_Showcase_Books.glb",
+    "w": 0.9, "d": 0.1, "h": 2.1,
+    "color": "#d8c9a3",
+    "sockets": []
   }
 ]
